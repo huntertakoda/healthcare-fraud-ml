@@ -4,10 +4,10 @@ This project aims to detect potential healthcare fraud by analyzing patient reim
 
 ## Table of Contents
 
-Features
-Data Preprocessing
-Models and Results
-Folder Structure
+1. Features
+2. Data Preprocessing
+3. Models and Results
+4. Folder Structure
 
 ## Features
 
